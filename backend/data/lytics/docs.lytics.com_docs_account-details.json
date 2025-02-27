@@ -1,0 +1,6 @@
+{
+  "url": "https://docs.lytics.com/docs/account-details",
+  "title": "Accessing Accounts",
+  "content": "Accessing Accounts\nSuggest Edits\nIntroduction\nUnder the account menu in the main navigation, find the Account Settings option.\nYou should see your account information, such as the name of your account, domain, the account owner's email, and more.\nYou can edit your account name, domain, and primary contact email from this page anytime. Once you change one of these values, you will be prompted to save or undo the changes.\nAccount ID and account number are never editable. They are assigned at account creation and are permanent identifiers.\nNavigating Accounts\nFor users who have access to multiple accounts, you can quickly and securely navigate between Accounts using our account switcher at the bottom right of the primary navigation:\n1. Click \"Switch Account\"\n2. Select Account\nA menu will appear outlining the accounts you have access to. Simply select an account and a new tab will open with this accounts dashboard.\nUpdated\nover 1 year ago",
+  "source": "lytics"
+}

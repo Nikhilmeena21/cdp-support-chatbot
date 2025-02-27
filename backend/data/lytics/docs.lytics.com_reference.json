@@ -1,0 +1,6 @@
+{
+  "url": "https://docs.lytics.com/reference",
+  "title": "AdrollSync: Create job",
+  "content": "AdrollSync: Create job\npost\nhttps://api.lytics.io/v2\n/job/adroll-sync\nCreate a AdrollSync job",
+  "source": "lytics"
+}

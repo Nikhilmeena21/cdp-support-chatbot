@@ -1,0 +1,103 @@
+.message {
+    display: flex;
+    margin-bottom: 1rem;
+    max-width: 80%;
+  }
+  
+  .message.user {
+    margin-left: auto;
+    justify-content: flex-end;
+  }
+  
+  .message.bot {
+    margin-right: auto;
+    justify-content: flex-start;
+  }
+  
+  .message-content {
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  }
+  
+  .message.user .message-content {
+    background-color: #4a6fa5;
+    color: white;
+  }
+  
+  .message.bot .message-content {
+    background-color: white;
+  }
+  
+  .message.bot.error .message-content {
+    background-color: #fff0f0;
+    border-left: 3px solid #e74c3c;
+  }
+  
+  .message.bot.loading .message-content {
+    background-color: white;
+    min-height: 24px;
+    min-width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .sources {
+    margin-top: 1rem;
+    padding-top: 0.5rem;
+    border-top: 1px solid #e1e4e8;
+    font-size: 0.8rem;
+  }
+  
+  .sources-title {
+    margin: 0 0 0.3rem 0;
+    font-weight: bold;
+    color: #666;
+  }
+  
+  .sources ul {
+    margin: 0;
+    padding-left: 1.2rem;
+  }
+  
+  .sources a {
+    color: #4a6fa5;
+    text-decoration: none;
+    word-break: break-all;
+  }
+  
+  .sources a:hover {
+    text-decoration: underline;
+  }
+  
+  /* New styling for improved formatting */
+  .cdp-section {
+    margin-bottom: 1rem;
+    border-left: 3px solid #4a6fa5;
+    padding-left: 1rem;
+  }
+  
+  .cdp-section h4 {
+    color: #4a6fa5;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
+  
+  .steps {
+    padding-left: 1.5rem;
+    margin: 0.5rem 0;
+  }
+  
+  .step {
+    margin-bottom: 0.5rem;
+  }
+  
+  ul, ol {
+    padding-left: 1.5rem;
+    margin: 0.5rem 0;
+  }
+  
+  p {
+    margin: 0.5rem 0;
+  }

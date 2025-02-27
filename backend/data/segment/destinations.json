@@ -1,0 +1,6 @@
+{
+    "url": "https://segment.com/docs/connections/destinations/",
+    "title": "Setting up destinations in Segment",
+    "content": "# How to set up destinations in Segment\n\nDestinations in Segment are tools and platforms where you send your customer data. Follow these steps to set up a destination:\n\n1. Log in to your Segment workspace\n2. Navigate to the Destinations catalog from the main menu\n3. Search for the destination you want to add\n4. Click on the destination card to begin setup\n5. Connect to an existing source by selecting it from the dropdown\n6. Enter your destination-specific settings:\n   - API keys or credentials\n   - Configuration options\n   - Data mapping preferences\n7. Configure the event filtering (which events to send)\n8. Enable and save your destination\n\n## Advanced Configuration\n\nMany destinations support advanced options:\n\n- **Transforms**: Modify your data before it reaches the destination\n- **Event Filtering**: Control which events and properties are sent\n- **User ID Settings**: Configure how user identities are handled\n- **Custom Mappings**: Map Segment fields to destination-specific fields\n\nAfter setting up your destination, Segment will automatically route data from your connected sources to this destination according to your configuration.",
+    "source": "segment"
+  }

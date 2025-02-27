@@ -1,0 +1,6 @@
+{
+    "url": "https://docs.zeotap.com/home/en-us/integrations",
+    "title": "Integrating data with Zeotap",
+    "content": "# How to integrate your data with Zeotap\n\nZeotap allows you to integrate data from various sources to create a unified customer view. Here's how to set up data integration:\n\n1. Access your Zeotap account and navigate to the Integrations section.\n2. Select 'Add New Integration' to begin the setup process.\n3. Choose your integration method:\n   - Direct file upload (CSV, JSON)\n   - Cloud storage connection (S3, GCS, Azure)\n   - API integration\n   - Partner connections\n4. Configure the data mapping:\n   - Map your identifiers to Zeotap's ID system\n   - Define attribute mappings for user properties\n   - Set up event mappings for behavioral data\n5. Set the refresh schedule for automated data syncing.\n6. Review and validate the integration configuration.\n7. Activate the integration to start data flow.\n8. Monitor the integration dashboard for data quality and sync status.\n\nAfter integration, your data will be processed, cleaned, and unified into customer profiles that can be used for audience creation, analytics, and activation across marketing channels.\n\nZeotap also offers identity resolution to connect user data across channels and devices for a comprehensive customer view.",
+    "source": "zeotap"
+  }

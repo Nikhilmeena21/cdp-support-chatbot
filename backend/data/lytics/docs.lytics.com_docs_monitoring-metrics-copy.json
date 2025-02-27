@@ -1,0 +1,6 @@
+{
+  "url": "https://docs.lytics.com/docs/monitoring-metrics-copy",
+  "title": "Monitoring Audit Logs",
+  "content": "Monitoring Audit Logs\nSuggest Edits\nAccount Activity Monitoring via Audit Logs API\nAudit Logs\nprovide visibility into system changes such as creating segments, updating schema, deleting items, new authorizations added, and users added to roles. This is a wealth of audit data about changes in your account. These events are shown in many places inside Lytics, such as the history of work sync events, status changes, work failures due to expiring authorization, or password changes on the source for OAuth tokens.  See our\nSystem Events API documentation\nfor more information.\nUpdated\n12 months ago",
+  "source": "lytics"
+}

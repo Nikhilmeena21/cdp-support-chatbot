@@ -1,0 +1,6 @@
+{
+    "url": "https://segment.com/docs/connections/sources/",
+    "title": "Setting up a source in Segment",
+    "content": "# How to set up a new source in Segment\n\nSources are tools and systems from which you collect data. Follow these steps to add a new source in Segment:\n\n1. Log in to your Segment workspace.\n2. Navigate to the Sources section in the left sidebar.\n3. Click the 'Add Source' button in the top-right corner.\n4. Browse or search for the type of source you want to add.\n5. Select the source type you want to implement.\n6. Configure the source settings according to your needs.\n7. Save your configuration.\n8. Follow the instructions to implement the Segment tracking code or SDK in your application or website.\n\nAfter setting up your source, you'll be able to collect user data and send it to various destinations.",
+    "source": "segment"
+  }

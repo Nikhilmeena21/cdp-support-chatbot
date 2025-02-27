@@ -1,0 +1,6 @@
+{
+  "url": "https://docs.lytics.com/docs/sdks-mobile",
+  "title": "Mobile",
+  "content": "Mobile\nSuggest Edits\nWelcome to the Lytics Mobile SDK documentation, where we will explore the native mobile SDKs for both Android and iOS platforms. In this section, we will delve into the capabilities and features of these SDKs, which enable app developers to integrate Lytics' powerful customer data platform directly into their mobile applications.\nLytics Mobile SDKs provide a simple way to collect data from mobile apps and enrich user profiles with valuable insights, including user behavior, preferences, and interests. By integrating Lytics Mobile SDKs into your mobile app, you can better understand your customers and deliver personalized experiences that drive engagement, retention, and revenue.\nIn this documentation, we will cover how to install and configure Lytics Mobile SDKs and use them to identify users, manage consent, track events, and personalize experiences.\nWhether you are a mobile app developer or a marketer, this documentation will provide you with the essential knowledge needed to leverage Lytics Mobile SDKs to build better mobile experiences and gain deeper insights into your customers' behaviors and preferences.\nUpdated\nalmost 2 years ago",
+  "source": "lytics"
+}

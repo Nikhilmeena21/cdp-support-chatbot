@@ -1,0 +1,6 @@
+{
+    "url": "https://docs.mparticle.com/guides/identity/",
+    "title": "Creating user profiles in mParticle",
+    "content": "# How to create a user profile in mParticle\n\nUser profiles in mParticle are created through identity management. Here's how to create and manage user profiles:\n\n1. Implement the mParticle SDK in your application.\n2. Use the identify() method to create a user profile with a unique ID.\n3. Add user attributes to enrich the profile.\n4. Set up identity resolution to connect user activities across devices.\n5. Configure user profile merging rules in the mParticle dashboard.\n\n## Example implementation\n\n```javascript\n// Initialize the mParticle SDK\nconst userIdentities = {\n  email: 'user@example.com',\n  customerId: '123456'\n};\n\n// Create an identify request\nconst identifyRequest = {\n  userIdentities: userIdentities\n};\n\n// Identify the user\nmParticle.Identity.identify(identifyRequest);\n\n// Add user attributes\nmParticle.Identity.getCurrentUser().setUserAttribute('name', 'John Doe');\nmParticle.Identity.getCurrentUser().setUserAttribute('plan', 'premium');\n```\n\nUser profiles will automatically collect and aggregate all events and attributes associated with the identified user across sessions and devices.",
+    "source": "mparticle"
+  }

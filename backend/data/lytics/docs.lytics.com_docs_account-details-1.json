@@ -1,0 +1,6 @@
+{
+  "url": "https://docs.lytics.com/docs/account-details-1",
+  "title": "Account Details",
+  "content": "Account Details\nConfiguration of account details such as name and primary contact.\nSuggest Edits\nThe following configuration options are available within the account settings\nAccount Details\nsection.\nAccount Name\nLabel for your account, which shows up in the account switcher, should you have access to more than one Lytics account.\nDomain\nPrimary domain associated with your account.\nContact\nEmail address of the primary account contact.\nAllow Access via API\nTo share profile data, such as audience membership, with integrations such as Google Analytics, profiles must be accessible via our personalization API.\nAccount ID (Non-configurable)\nYour unique Lytics account identifier. Your primary identifier used in all API calls.\nAccount Number (Non-configurable)\nYour unique Lytics account number. Used primarily for quick reference to which account you are currently within.\nUpdated\nabout 1 year ago",
+  "source": "lytics"
+}

@@ -1,0 +1,6 @@
+{
+    "url": "https://segment.com/docs/connections/spec/track/",
+    "title": "Event tracking in Segment",
+    "content": "# How to track events in Segment\n\nEvent tracking is core to Segment's functionality. Here's how to implement event tracking:\n\n1. First, ensure you have installed and initialized the Segment SDK.\n2. Use the `track()` method to record user actions and events.\n3. Include an event name and optional properties in each track call.\n4. Follow the Segment naming conventions for consistent analytics.\n5. Test your implementation using the Segment debugger.\n\n## Basic implementation\n\n```javascript\n// Track a simple event\nanalytics.track('Button Clicked');\n\n// Track an event with properties\nanalytics.track('Product Added', {\n  product_id: 'P12345',\n  name: 'Running Shoes',\n  price: 99.99,\n  currency: 'USD',\n  category: 'Footwear'\n});\n```\n\n## Best practices\n\n- Use consistent event naming (verb + noun format is recommended)\n- Include all relevant properties with each event\n- Group related events into categories\n- Use semantic naming for clarity across your organization\n- Document your tracking plan for reference\n\nAfter implementation, events will flow to all connected destinations automatically without additional code changes.",
+    "source": "segment"
+  }

@@ -1,0 +1,6 @@
+{
+  "url": "https://docs.lytics.com/docs/pipeline",
+  "title": "Data Pipeline",
+  "content": "Data Pipeline\nSuggest Edits\nWelcome to the Pipeline & Profiles section, where we will explore data management and analysis fundamentals. This section will delve into the concepts of data streams, data sources, and queries/LQL.\nData Sources\nrefers to the origin of the data and how you can leverage hundreds of different out-of-the-box integrations or APIs to aggregate your data from disparate channels.\nData Streams\noutline how to control and monitor data that is being streamed into the Lytics platform.\nQueries & LQL\nbreaks down our core query language and capabilities for transforming and unifying your data.\nUpdated\nalmost 2 years ago",
+  "source": "lytics"
+}

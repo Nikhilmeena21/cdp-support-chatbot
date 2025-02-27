@@ -1,0 +1,6 @@
+{
+  "url": "https://docs.lytics.com/docs/schema-management",
+  "title": "Schema Management",
+  "content": "Schema Management\nSuggest Edits\nWelcome to the Schema Management section, where we will explore how to define and manage data structures within the Lytics platform. This section will cover how to ensure data quality and consistency, including defining data types, creating custom fields, and enforcing validation rules. Whether you are a data analyst, developer, or system administrator, this section will provide you with the essential knowledge needed to understand schema management within the context of the Lytics platform.\nUpdated\nalmost 2 years ago",
+  "source": "lytics"
+}

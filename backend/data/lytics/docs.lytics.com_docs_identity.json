@@ -1,0 +1,6 @@
+{
+  "url": "https://docs.lytics.com/docs/identity",
+  "title": "Merge Statistics",
+  "content": "Merge Statistics\nSuggest Edits\nWhen data from multiple sources are combined into a single user profile, it is essential to ensure that the resulting data is accurate and consistent. Merge statistics in Lytics provide a way to monitor and optimize the merging process, ensuring that the data is adequately combined and reflects the most up-to-date and accurate information.\nIn the example below, you can see how merge stats can be used to uncover potential areas of issue. Out of the four available identifiers, user_id, is not responsible for any merges. This could be due to several reasons, such as no data populating that field, the relationship being defined inaccurately, etc.\nUpdated\nalmost 2 years ago",
+  "source": "lytics"
+}

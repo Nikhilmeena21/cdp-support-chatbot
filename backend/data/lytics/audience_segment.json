@@ -1,0 +1,6 @@
+{
+    "url": "https://docs.lytics.com/docs/audiences",
+    "title": "Building audience segments in Lytics",
+    "content": "# How to build an audience segment in Lytics\n\nAudience segmentation in Lytics allows you to target users based on behavior and attributes. Follow these steps to create an audience segment:\n\n1. Log in to your Lytics account and navigate to the Audiences section.\n2. Click on 'Create New Audience' to begin.\n3. In the audience builder, choose between using predefined segments or creating custom rules.\n4. For custom rules, select the data attributes you want to use (user behaviors, properties, etc.).\n5. Define the conditions using the visual rule builder:\n   - Add filters based on user attributes\n   - Set conditions based on content affinity\n   - Use behavioral triggers like page views or events\n6. Combine multiple rules using AND/OR logic for more complex segmentation.\n7. Preview your audience to see estimated size and composition.\n8. Name your audience and add a description.\n9. Save the audience for use in campaigns and activations.\n\nOnce created, your audience will update dynamically as users meet or no longer meet the defined criteria.\n\nYou can use these audiences for personalization, campaign targeting, or export them to various marketing platforms integrated with Lytics.",
+    "source": "lytics"
+  }
