@@ -8,7 +8,7 @@ A sophisticated chatbot that answers "how-to" questions related to Customer Data
 
 * **Answer "How-to" Questions** : Provides detailed, step-by-step instructions for performing tasks within each CDP
 * **Documentation-based Responses** : Extracts and processes information directly from official CDP documentation
-* **Multiple CDP Support** : Covers four major CDPs - Segment, mParticle, Lytics, and Zeotap
+* **Multiple CDP Support** : Covers four major CDPs - Segment, mParticle, Lytics.
 * **Cross-CDP Comparisons** : Compare functionality across different platforms (e.g., "How does Segment's audience creation compare to Lytics?")
 * **Intelligent Response Formatting** : Presents answers in clear, structured formats with proper organization
 * **Source Attribution** : Includes references to source documentation
